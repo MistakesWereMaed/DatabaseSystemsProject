@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to develop a MySQL database system for managing trouble ticketing information of a company that dispatches technicians to resolve customer-reported problems. The database will help dispatchers and technicians properly identify problems and efficiently allocate resources to resolve them. The project is proposed by Thomas Burns, Isaac Garza, Julian Legere, and Benjamin Samuel.
+This project aims to develop a MySQL database system for managing trouble ticketing information of a company that dispatches technicians to resolve customer-reported problems. The database will help dispatchers and technicians properly identify problems and efficiently allocate resources to resolve them. The project was created using MySQL Workbench.
 
 ## Project Proposal
 
